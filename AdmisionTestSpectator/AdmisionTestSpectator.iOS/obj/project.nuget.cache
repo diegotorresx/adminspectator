@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9we01MDlIu6cCUenehSceW4vBCVborkBWzCKM4A9jAsY/KpvOjwq93+pLx1SCuSTJo9OlwAA4OWk8tCWaQ7UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.iOS\\AdmisionTestSpectator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\torresforero.10\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\torresforero.10\\.nuget\\packages\\xamarin.auth\\1.7.0\\xamarin.auth.1.7.0.nupkg.sha512",
+    "C:\\Users\\torresforero.10\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\torresforero.10\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

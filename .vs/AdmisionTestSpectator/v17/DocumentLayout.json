@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\admisiontestspectator\\admisiontestspectator\\services\\googleservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|solutionrelative:admisiontestspectator\\admisiontestspectator\\services\\googleservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\admisiontestspectator\\admisiontestspectator\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|solutionrelative:admisiontestspectator\\admisiontestspectator\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|c:\\proyects\\personal data\\spectator\\admisiontestspectator\\admisiontestspectator\\admisiontestspectator\\views\\itemdetailpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|solutionrelative:admisiontestspectator\\admisiontestspectator\\views\\itemdetailpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\admisiontestspectator\\admisiontestspectator\\viewmodels\\itemdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|solutionrelative:admisiontestspectator\\admisiontestspectator\\viewmodels\\itemdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\admisiontestspectator\\admisiontestspectator\\services\\igoogleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|solutionrelative:admisiontestspectator\\admisiontestspectator\\services\\igoogleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\admisiontestspectator\\admisiontestspectator\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|solutionrelative:admisiontestspectator\\admisiontestspectator\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D28777D-8A59-4B24-BFA0-5F96FE149684}|AdmisionTestSpectator\\AdmisionTestSpectator.Android\\AdmisionTestSpectator.Android.csproj|C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\admisiontestspectator\\admisiontestspectator.android\\properties\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{9D28777D-8A59-4B24-BFA0-5F96FE149684}|AdmisionTestSpectator\\AdmisionTestSpectator.Android\\AdmisionTestSpectator.Android.csproj|solutionrelative:admisiontestspectator\\admisiontestspectator.android\\properties\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\admisiontestspectator\\admisiontestspectator\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|solutionrelative:admisiontestspectator\\admisiontestspectator\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\admisiontestspectator\\admisiontestspectator\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|solutionrelative:admisiontestspectator\\admisiontestspectator\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\admisiontestspectator\\admisiontestspectator\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{08908831-857F-4D0C-B2F1-7DFD29130D11}|AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.csproj|solutionrelative:admisiontestspectator\\admisiontestspectator\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemDetailPage.xaml",
+              "DocumentMoniker": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\ItemDetailPage.xaml",
+              "RelativeDocumentMoniker": "AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\ItemDetailPage.xaml",
+              "ToolTip": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\ItemDetailPage.xaml",
+              "RelativeToolTip": "AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\ItemDetailPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T14:16:43.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\ItemDetailViewModel.cs",
+              "RelativeDocumentMoniker": "AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\ItemDetailViewModel.cs",
+              "ToolTip": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\ItemDetailViewModel.cs",
+              "RelativeToolTip": "AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\ItemDetailViewModel.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:15:28.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AdmisionTestSpectator\\AdmisionTestSpectator.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "AdmisionTestSpectator\\AdmisionTestSpectator.Android\\Properties\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-25T11:52:42.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleServicecs.cs",
+              "DocumentMoniker": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Services\\GoogleServicecs.cs",
+              "RelativeDocumentMoniker": "AdmisionTestSpectator\\AdmisionTestSpectator\\Services\\GoogleServicecs.cs",
+              "ToolTip": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Services\\GoogleServicecs.cs",
+              "RelativeToolTip": "AdmisionTestSpectator\\AdmisionTestSpectator\\Services\\GoogleServicecs.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:48:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGoogleServices.cs",
+              "DocumentMoniker": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Services\\IGoogleServices.cs",
+              "RelativeDocumentMoniker": "AdmisionTestSpectator\\AdmisionTestSpectator\\Services\\IGoogleServices.cs",
+              "ToolTip": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Services\\IGoogleServices.cs",
+              "RelativeToolTip": "AdmisionTestSpectator\\AdmisionTestSpectator\\Services\\IGoogleServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:42:48.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "AdmisionTestSpectator\\AdmisionTestSpectator\\Models\\Item.cs",
+              "ToolTip": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Models\\Item.cs",
+              "RelativeToolTip": "AdmisionTestSpectator\\AdmisionTestSpectator\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:22:19.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemsViewModel.cs",
+              "DocumentMoniker": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\ItemsViewModel.cs",
+              "RelativeDocumentMoniker": "AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\ItemsViewModel.cs",
+              "ToolTip": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\ItemsViewModel.cs",
+              "RelativeToolTip": "AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\ItemsViewModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:21:55.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemsPage.xaml",
+              "DocumentMoniker": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\ItemsPage.xaml",
+              "RelativeDocumentMoniker": "AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\ItemsPage.xaml",
+              "ToolTip": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\ItemsPage.xaml",
+              "RelativeToolTip": "AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\ItemsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T02:21:31.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutViewModel.cs",
+              "DocumentMoniker": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\AboutViewModel.cs",
+              "RelativeDocumentMoniker": "AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\AboutViewModel.cs",
+              "ToolTip": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\AboutViewModel.cs",
+              "RelativeToolTip": "AdmisionTestSpectator\\AdmisionTestSpectator\\ViewModels\\AboutViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAwAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T01:57:51.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\AboutPage.xaml",
+              "ToolTip": "C:\\Proyects\\Personal Data\\Spectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "AdmisionTestSpectator\\AdmisionTestSpectator\\Views\\AboutPage.xaml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T01:49:09.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
