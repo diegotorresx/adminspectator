@@ -14,6 +14,7 @@ C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\
 C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator\obj\Debug\netstandard2.0\AdmisionTestSpectator.AssemblyInfoInputs.cache
 C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator\obj\Debug\netstandard2.0\AdmisionTestSpectator.AssemblyInfo.cs
 C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator\obj\Debug\netstandard2.0\AdmisionTestSpectator.csproj.CoreCompileInputs.cache
+C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator\obj\Debug\netstandard2.0\AdmisionTestSpectator.sourcelink.json
 C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator\obj\Debug\netstandard2.0\AdmisionTestSpectator.dll
 C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator\obj\Debug\netstandard2.0\refint\AdmisionTestSpectator.dll

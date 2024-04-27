@@ -11,6 +11,7 @@ namespace AdmisionTestSpectator.ViewModels
     public class BaseViewModel : INotifyPropertyChanged
     {
         public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
+        public IGoogleServices<Item> GoogleServices => DependencyService.Get<IGoogleServices<Item>>();
 
         bool isBusy = false;
         public bool IsBusy

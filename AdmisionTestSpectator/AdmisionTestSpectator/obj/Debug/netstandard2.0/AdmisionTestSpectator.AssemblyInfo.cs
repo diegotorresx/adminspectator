@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdmisionTestSpectator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acb7001aa3a98f8c0ba99c2e29a695de9145d77c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdmisionTestSpectator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdmisionTestSpectator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

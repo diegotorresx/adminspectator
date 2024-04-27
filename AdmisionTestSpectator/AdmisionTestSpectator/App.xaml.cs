@@ -14,6 +14,7 @@ namespace AdmisionTestSpectator
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
+            DependencyService.Register<GoogleServices>();
             MainPage = new AppShell();
         }
 

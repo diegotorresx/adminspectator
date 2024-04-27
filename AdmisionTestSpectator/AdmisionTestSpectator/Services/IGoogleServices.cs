@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace AdmisionTestSpectator.Services
 {
-    public interface IGoogleServices
+    public interface IGoogleServices<Item>
     {
-        Task<string> GetFitnessActivityData();
+        Task<IEnumerable<Item>> GetFitnessActivityData();
     }
 }

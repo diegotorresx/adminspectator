@@ -1,5 +1,8 @@
 C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator.iOS\bin\iPhone\Debug\AdmisionTestSpectator.iOS.exe
 C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator.iOS\bin\iPhone\Debug\AdmisionTestSpectator.iOS.pdb
+C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator.iOS\bin\iPhone\Debug\Xamarin.Auth.dll
+C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator.iOS\bin\iPhone\Debug\Xamarin.Auth.pdb
 C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
 C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
 C:\Proyects\Personal Data\Spectator\AdmisionTestSpectator\AdmisionTestSpectator\AdmisionTestSpectator.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll

@@ -35,7 +35,8 @@ namespace AdmisionTestSpectator.ViewModels
             try
             {
                 Items.Clear();
-                var items = await DataStore.GetItemsAsync(true);
+                var items = await GoogleServices.GetFitnessActivityData();
+                //var items = await DataStore.GetItemsAsync(true);
                 foreach (var item in items)
                 {
                     Items.Add(item);
@@ -74,6 +75,7 @@ namespace AdmisionTestSpectator.ViewModels
 
         async void OnItemSelected(Item item)
         {
+            
             if (item == null)
                 return;
 
